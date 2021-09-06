@@ -12,6 +12,6 @@ Inventory Management System based on JSON file handling, built using Python as p
 * Saves the Sales record into a Text file. 
 
  ### Credits
-**©** @sumitgupta9598 :octocat: | 2021 | [GitHub](https://github.com/sumitgupta9598/)
+**©** @sumitgupta9598 :octocat: | 2021 | [GitHub](https://github.com/sumitgupta9598/) | [linkedIn](https://www.linkedin.com/in/sumit-gupta-15260b197)
 
 
