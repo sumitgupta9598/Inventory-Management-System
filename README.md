@@ -1,5 +1,5 @@
 # Inventory-Management-System
-Features
+#Features
 Loads data from a json file.
 Shows the list of products available to buy from inventory to user.
 Can take multiple product orders at once.
